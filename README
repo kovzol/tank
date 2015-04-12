@@ -1,4 +1,5 @@
 This is a simple tank game written in Python/PyGame.
+See https://www.youtube.com/watch?v=WgV-MCL1W5c for a short demo.
 
 You control the green tank and fight against the computer (red tank).
 

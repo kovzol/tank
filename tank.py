@@ -3,7 +3,7 @@
 
 """
 Simple tank game
-written by Benedek Kovács
+written by Benedek Kovács, Domonkos Kovács
 and Zoltán Kovács <zoltan@geogebra.org>
 in March/April 2015
 
