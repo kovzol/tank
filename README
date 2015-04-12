@@ -1,0 +1,25 @@
+This is a simple tank game written in Python/PyGame.
+
+You control the green tank and fight against the computer (red tank).
+
+By using the UP and DOWN keys you can control the angle of your cannon.
+Press LEFT-CTRL or LEFT-ALT to change the power level of the shoot.
+The SPACE key will launch the cannonball.
+The LEFT and RIGHT keys help you to move your tank to the left and right.
+
+Your energy is shown with the green gauge. The energy level of the
+computer's tank is shown with red gauge. The aim is to decrease the
+computer's energy level to zero and keep yours.
+
+Avoid of falling too much since falling may decrease your energy level.
+
+
+Authors: Benedek Kovács, Domonkos Kovács and Zoltán Kovács <zoltan@geogebra.org>
+
+Copyright: see GNU GPL 3+
+
+
+Some media files may contain redesigned third party content. We hope that
+we do not break copyrights. If you think that your copyrighted material
+is appearing among the media files, please contact us and we will remove it.
+Thank you.
