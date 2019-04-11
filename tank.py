@@ -323,11 +323,11 @@ screen = pygame.display.set_mode((width, height))
 running = 1
 
 # Position of the tanks
-t1x = width / 6 + random.randint(0,width/6)
+t1x = width / 6 + random.randint(0, int(width/6))
 t1y = 0
 while only_sky_in_row1(t1y + 16) and t1y + 16 < height:
     t1y += 1
-t2x = width / 6 * 4 + random.randint(0,width/6)
+t2x = width / 6 * 4 + random.randint(0,int(width/6))
 t2y = 0
 while only_sky_in_row2(t2y + 16)  and t2y + 16 < height:
     t2y += 1
